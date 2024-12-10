@@ -1,0 +1,32 @@
+<svg width="200" height="300" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <!-- Head -->
+        <circle cx="100" cy="100" r="50" fill="#FFDBB4" />
+        
+        <!-- Hair -->
+        <path d="M70,80 Q100,40 130,80 Q110,50 100,60 Q90,50 70,80" fill="#4B3D3D" />
+        
+        <!-- Eyes -->
+        <ellipse cx="80" cy="100" rx="10" ry="20" fill="white" />
+        <circle cx="80" cy="100" r="5" fill="black" />
+        <ellipse cx="120" cy="100" rx="10" ry="20" fill="white" />
+        <circle cx="120" cy="100" r="5" fill="black" />
+        
+        <!-- Mouth -->
+        <path d="M85,130 Q100,140 115,130" stroke="black" stroke-width="2" fill="none" />
+        
+        <!-- Body -->
+        <rect x="70" y="150" width="60" height="100" fill="green" />
+        <rect x="70" y="150" width="60" height="20" fill="black" /> <!-- Stripe -->
+        
+        <!-- Pants -->
+        <rect x="70" y="250" width="25" height="30" fill="black" />
+        <rect x="105" y="250" width="25" height="30" fill="black" />
+        
+        <!-- Omnitrix -->
+        <circle cx="130" cy="190" r="10" fill="green" />
+        <circle cx="130" cy="190" r="7" fill="black" />
+        <rect x="128" y="186" width="4" height="10" fill="white" />
+        <rect x="125" y="189" width="10" height="4" fill="white" />
+    </g>
+</svg>
