@@ -11,7 +11,7 @@ function AboutCard() {
             Hi everyone, I am <span className="purple">Saiteja </span>
             from <span className="purple">Chicago,Illinois.</span>
             <br />
-            I am currently looking for new opprtunities.
+            I am currently looking for new opportunities.
             <br />
             I have completed Masters in Computer Science at Governors State University.
             <br />
